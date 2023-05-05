@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "action": "Deploy",
+    "metadataType": "ApexClass",
+    "componentName": "sampletest",
+    "message": "",
+    "path": "DeltaChanges\\force-app\\main\\default\\classes\\sampletest.cls-meta.xml"
+  }
+]
