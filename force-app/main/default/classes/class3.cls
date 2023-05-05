@@ -1,7 +1,0 @@
-//Adding a comment for reterival
-//editing in org
-public with sharing class class3 {
-    public class3() {
-
-    }
-}
