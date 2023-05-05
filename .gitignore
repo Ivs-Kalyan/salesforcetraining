@@ -7,6 +7,8 @@
 .sfdx/
 .localdevserver/
 deploy-options.json
+DeltaChanges/
+toDeploy/
 
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
@@ -35,6 +37,7 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+
 
 # Local environment variables
 .env
